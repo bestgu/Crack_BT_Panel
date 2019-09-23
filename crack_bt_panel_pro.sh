@@ -25,9 +25,6 @@ echo "如已安装更高版本的宝塔面板，请先卸载高版本再安装"
 echo "如已安装其他种类的面板，或 LNMP 之类的运行环境、一键包，建议备份好数据，重装干净系统再安装"
 echo "使用本脚本出现的任何不良后果，本人概不负责"
 echo ""
-echo -e "${blue}[支持]"
-echo -e "${plain}zhihu: https://www.zhihu.com/people/deepdarkfantastic"
-echo "email: net.core@outlook.com"
 echo ""
 
 #确认安装
